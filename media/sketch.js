@@ -4,8 +4,8 @@ let capture;
 let started = false;
 
 function preload() {
-  img = loadImage('thx.png'); // Load image
-  sound = loadSound('thx.mp3'); // Load sound
+  img = loadImage('thx.png'); 
+  sound = loadSound('thx.mp3'); 
 }
 
 function setup() {
