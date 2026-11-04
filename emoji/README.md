@@ -1,0 +1,3 @@
+This is the first project for the creative porfolio assesment.
+The feeling my emoji should convey is PROCRASTINATION. 
+I added a clock in the background showing the time is 11:59 and a calendar indicating an upcoming deadline. I used a cold blue and added a worried expression for the uncomfortable feeling procrastination brings. The emoji is looking to the side, trying to escape the situation it's in.
